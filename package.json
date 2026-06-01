@@ -8,7 +8,8 @@
     "dev:front": "vite",
     "dev:server": "node server/index.js",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "node server/index.js"
   },
   "dependencies": {
     "vue": "^3.4.0",
