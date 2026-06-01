@@ -1,0 +1,18 @@
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:"PingFang SC","Microsoft YaHei",sans-serif;background:#f5f0e8;color:#3a2f2a;line-height:1.6}
+.dark body{background:#1e1e1e;color:#d4d4d4}
+a{color:#6b5e4a}
+.dark a{color:#c0b5a5}
+input,select,button,textarea{font-family:inherit}
+.form-page{max-width:420px;margin:20px auto;padding:24px;background:#faf6ef;border:1px solid #d9ccb2}
+.dark .form-page{background:#2a2a2a;border-color:#444}
+.form-page h2{margin-bottom:16px;color:#4a3b2c}
+.dark .form-page h2{color:#e0d6c8}
+.form-page input,.form-page select,.form-page textarea{width:100%;padding:10px;margin:8px 0;border:1px solid #c9b99a;background:#fff;color:#3a2f2a}
+.dark .form-page input,.dark .form-page select,.dark .form-page textarea{background:#3a3a3a;border-color:#555;color:#ddd}
+.form-page button{width:100%;padding:10px;background:#b39b7c;color:#fff;border:none;cursor:pointer;margin-top:8px;font-size:1rem}
+.form-page button:hover{opacity:0.9}
+.form-page .error{color:#a94442;margin-top:8px}
+.form-page .msg{color:#5a7d4a;margin-top:8px}
+.page-enter-active,.page-leave-active{transition:opacity 0.2s}
+.page-enter-from,.page-leave-to{opacity:0}
