@@ -1,0 +1,8 @@
+{
+  "name": "拾光问答",
+  "short_name": "问答",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#b39b7c"
+}
